@@ -12,8 +12,14 @@ public class ModelMapperConfig {
 		return new ModelMapper();
 		}
 
+
 int a = 10;
 int b = 20;
 System.out.println(a+b);
+
+
+String name = "Rahul";
+System.out.println(name);
+
 
 }
